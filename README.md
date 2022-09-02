@@ -2,7 +2,7 @@
  Jogo feito em React para descobrir a palavra!
 
 
- ![Imagem do projeto funcionando](./img.gif)
+ ![Imagem do projeto funcionando](./img.png)
  
 ## Iniciando o projeto:
 
